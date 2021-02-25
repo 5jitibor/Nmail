@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1560036678 source:c:\users\usuario\onedrive - universidad san jorge\año_01\programacion\practica3fpjoseignaciotrasobares\datosrejilla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constantesEstructuras.h"
+	"rejilla.h"
+
+1559503540 c:\users\usuario\onedrive - universidad san jorge\año_01\programacion\practica3fpjoseignaciotrasobares\constantesestructuras.h
+
+1586340467 c:\users\usuario\onedrive - universidad san jorge\año_01\programacion\practica3fpjoseignaciotrasobares\rejilla.h
+	"constantesEstructuras.h"
+
+1560020383 source:c:\users\usuario\onedrive - universidad san jorge\año_01\programacion\practica3fpjoseignaciotrasobares\fichero.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constantesEstructuras.h"
+	"DatosRejilla.h"
+
+1560024733 c:\users\usuario\onedrive - universidad san jorge\año_01\programacion\practica3fpjoseignaciotrasobares\datosrejilla.h
+	"constantesEstructuras.h"
+
+1560024130 source:c:\users\usuario\onedrive - universidad san jorge\año_01\programacion\practica3fpjoseignaciotrasobares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rejilla.h"
+	"constantesEstructuras.h"
+	"fichero.h"
+	"DatosRejilla.h"
+	"Menu.h"
+
+1560020405 c:\users\usuario\onedrive - universidad san jorge\año_01\programacion\practica3fpjoseignaciotrasobares\fichero.h
+	"constantesEstructuras.h"
+
+1560023599 c:\users\usuario\onedrive - universidad san jorge\año_01\programacion\practica3fpjoseignaciotrasobares\menu.h
+	"constantesEstructuras.h"
+
+1560036721 source:c:\users\usuario\onedrive - universidad san jorge\año_01\programacion\practica3fpjoseignaciotrasobares\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constantesEstructuras.h"
+	"rejilla.h"
+	"DatosRejilla.h"
+	"fichero.h"
+
+1586340467 source:c:\users\usuario\onedrive - universidad san jorge\año_01\programacion\practica3fpjoseignaciotrasobares\rejilla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rejilla.h"
+	"constantesEstructuras.h"
+	"DatosRejilla.h"
+
